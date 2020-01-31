@@ -1,6 +1,5 @@
 # TrailingTwos
-  A recent live coding challenge
-  Given an array, search for 2s and move to the end of the array
+  A recent live coding challenge. Given an array, search for 2s and move to the end of the array
 
     let givenArray = [3,2,2,4,5]
 
